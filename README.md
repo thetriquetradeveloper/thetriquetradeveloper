@@ -63,4 +63,4 @@
 ---
 
 ## 🐍 **Snake Eating Contributions**  
-![Snake animation](https://github.com/thetriquetradeveloper/thetriquetradeveloper/blob/output/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/thetriquetradeveloper/thetriquetradeveloper/d61edb5f135305ec692ac7dc5a05cd7b59c13464/github-snake-dark.svg)
